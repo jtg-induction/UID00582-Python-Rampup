@@ -1,1 +1,1 @@
-####Python assignment questions are solved in this repository
+Python assignment questions are solved in this repository
